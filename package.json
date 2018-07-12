@@ -1,0 +1,27 @@
+{
+  "name": "generatefonts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "example.js",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "fs": "^0.0.1-security",
+    "handlebars": "^4.0.11",
+    "mkdirp": "^0.5.1",
+    "path": "^0.12.7",
+    "q": "^1.5.1",
+    "svg2ttf": "^4.1.0",
+    "svgicons2svgfont": "^9.0.3",
+    "ttf2eot": "^2.0.0",
+    "ttf2woff": "^2.0.1",
+    "ttf2woff2": "^2.0.3",
+    "underscore": "^1.9.1",
+    "url-join": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
